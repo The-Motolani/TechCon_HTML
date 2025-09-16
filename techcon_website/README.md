@@ -7,12 +7,12 @@ The project demonstrates semantic HTML structure, accessibility best practices, 
 
 ## Project Structure
 
-TechCon_HTML/
-└── techcon_website/
-├── index.html # Homepage with intro + embedded promo video
-├── about.html # About page with history, mission, and past speakers
-├── schedule.html # Detailed timetable of sessions using HTML tables
-├── register.html # Registration form with validation fields
+TechCon_HTML/ \
+└── techcon_website/ \
+├── index.html # Homepage with intro + embedded promo video \
+├── about.html # About page with history, mission, and past speakers \
+├── schedule.html # Detailed timetable of sessions using HTML tables \
+├── register.html # Registration form with validation fields \
 └── contact.html # Contact info, map embed, and contact form
 
 ---
